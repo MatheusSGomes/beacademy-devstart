@@ -6,13 +6,15 @@ Repositório com todos os entregáveis do programa DevStart
 
 ## Sprint 1
 
-Cursos: Nova Economia; Novo Mindset; Ecossistema de Tecnologia; Empresa e Cultura Tech e Como aprender tecnologia.
-Entrevável: Não teve. 
+- [x] Cursos: Nova Economia; Novo Mindset; Ecossistema de Tecnologia; Empresa e Cultura Tech e Como aprender tecnologia.
+
+- [x] Entrevável: ---
 
 ## Sprint 2
 
-Cursos: Comunicação Assertiva;Resolução de Problemas; Cultura e Times Ágeis; Gestão de Metas: O que são OKRs?
-Entrevável: 
+- [x] Cursos: Comunicação Assertiva;Resolução de Problemas; Cultura e Times Ágeis; Gestão de Metas: O que são OKRs?
+
+- [x] Entrevável: ---
 
 ## Sprint 3
 
@@ -30,15 +32,11 @@ Entrevável:
 
 - [ ] Entrevável: 
 
-
-
 ## Sprint 5
 
 - [ ] Cursos: 
 
 - [ ] Entrevável: 
-
-
 
 ## Sprint 6
 
@@ -46,15 +44,11 @@ Entrevável:
 
 - [ ] Entrevável: 
 
-
-
 ## Sprint 7
 
 - [ ] Cursos:
 
 - [ ] Entrevável: 
-
-
 
 ## Sprint 8
 
@@ -62,15 +56,11 @@ Entrevável:
 
 - [ ] Entrevável: 
 
-
-
 ## Sprint 9
 
 - [ ] Cursos: 
 
 - [ ] Entrevável: 
-
-
 
 ## Sprint 10
 
@@ -78,15 +68,11 @@ Entrevável:
 
 - [ ] Entrevável: 
 
-
-
 ## Sprint 11
 
 - [ ] Cursos: 
 
 - [ ] Entrevável: 
-
-
 
 ## Sprint 12
 
@@ -94,23 +80,17 @@ Entrevável:
 
 - [ ] Entrevável: 
 
-
-
 ## Sprint 13
 
 - [ ] Cursos: 
 
 - [ ] Entrevável: 
 
-
-
 ## Sprint 14
 
 - [ ] Cursos: 
 
 - [ ] Entrevável: 
-
-
 
 ## Sprint 15
 
