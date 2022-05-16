@@ -16,68 +16,104 @@ Entrevável:
 
 ## Sprint 3
 
-Cursos: Frontend Essentials: HTML, CSS e JAVASCRIPT; Versionamento de projetos: Git e Github.
-Entrevável:
+- [x] Cursos: Frontend Essentials: HTML, CSS e JAVASCRIPT; Versionamento de projetos: Git e Github.
+
+- [x] Entrevável:
 
 - Portfólio:
+
 - Repositório comandos Git e Github: https://github.com/MatheusSGomes/beacademy-devstart-gitegithub
 
 ## Sprint 4
 
-Cursos: 
-Entrevável: 
+- [ ] Cursos: 
+
+- [ ] Entrevável: 
+
+
 
 ## Sprint 5
 
-Cursos: 
-Entrevável: 
+- [ ] Cursos: 
+
+- [ ] Entrevável: 
+
+
 
 ## Sprint 6
 
-Cursos: 
-Entrevável: 
+- [ ] Cursos:
+
+- [ ] Entrevável: 
+
+
 
 ## Sprint 7
 
-Cursos: 
-Entrevável: 
+- [ ] Cursos:
+
+- [ ] Entrevável: 
+
+
 
 ## Sprint 8
 
-Cursos: 
-Entrevável: 
+- [ ] Cursos: 
+
+- [ ] Entrevável: 
+
+
 
 ## Sprint 9
 
-Cursos: 
-Entrevável: 
+- [ ] Cursos: 
+
+- [ ] Entrevável: 
+
+
 
 ## Sprint 10
 
-Cursos: 
-Entrevável: 
+- [ ] Cursos: 
+
+- [ ] Entrevável: 
+
+
 
 ## Sprint 11
 
-Cursos: 
-Entrevável: 
+- [ ] Cursos: 
+
+- [ ] Entrevável: 
+
+
 
 ## Sprint 12
 
-Cursos: 
-Entrevável: 
+- [ ] Cursos: 
+
+- [ ] Entrevável: 
+
+
 
 ## Sprint 13
 
-Cursos: 
-Entrevável: 
+- [ ] Cursos: 
+
+- [ ] Entrevável: 
+
+
 
 ## Sprint 14
 
-Cursos: 
-Entrevável: 
+- [ ] Cursos: 
+
+- [ ] Entrevável: 
+
+
 
 ## Sprint 15
 
-Cursos: 
-Entrevável: 
+- [ ] Cursos: 
+
+- [ ] Entrevável: 
