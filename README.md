@@ -14,15 +14,15 @@ Repositório com todos os entregáveis do programa DevStart
 
 - [x] Cursos: Comunicação Assertiva;Resolução de Problemas; Cultura e Times Ágeis; Gestão de Metas: O que são OKRs?
 
-- [x] Entrevável: ---
+- [x] Entrevável: Questionário da Sprint 2 sobre Comunicação Assertiva e Resolução de Problemas
 
 ## Sprint 3
 
 - [x] Cursos: Frontend Essentials: HTML, CSS e JAVASCRIPT; Versionamento de projetos: Git e Github.
 
-- [x] Entrevável:
+- [x] Entreváveis:
 
-- Portfólio:
+- Portfólio: https://github.com/MatheusSGomes/beacademy-devstart-frontend-myportfolio
 
 - Repositório comandos Git e Github: https://github.com/MatheusSGomes/beacademy-devstart-gitegithub
 
