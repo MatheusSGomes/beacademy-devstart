@@ -28,27 +28,28 @@ Repositório com todos os entregáveis do programa DevStart
 
 ## Sprint 4
 
-- [ ] Cursos: 
+- [x] Cursos: Lógica de programação
 
-- [ ] Entrevável: 
+- [x] Entrevável: https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao
 
 ## Sprint 5
 
-- [ ] Cursos: 
+- [x] Cursos: Introdução ao PHP
 
-- [ ] Entrevável: 
+- [x] Entrevável 2: https://github.com/MatheusSGomes/beacademy-devstart-crud-contatos-php
+- [x] Entrevável 1: https://github.com/MatheusSGomes/beacademy-devstart-introducaophp
 
 ## Sprint 6
 
-- [ ] Cursos:
+- [x] Cursos: PHP com Orientação a Objetos
 
-- [ ] Entrevável: 
+- [x] Entrevável: https://github.com/MatheusSGomes/beacademy-devstart-poo
 
 ## Sprint 7
 
-- [ ] Cursos:
+- [x] Cursos: PHP com Banco de dados (MariaDB)
 
-- [ ] Entrevável: 
+- [x] Entrevável: https://github.com/MatheusSGomes/beacademy-devstart-php-db
 
 ## Sprint 8
 
